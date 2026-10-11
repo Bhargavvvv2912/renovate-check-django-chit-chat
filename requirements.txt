@@ -1,6 +1,6 @@
 # These requirements are for local development and testing of the module
 # python packaging
-twine==3.1.1
+twine==7.0.0
 # django stuff
 Django==3.2.12
 djangorestframework==3.13.1
